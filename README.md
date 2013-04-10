@@ -1,1 +1,1 @@
-My solutions to problems from project-euler.net
+My solutions to problems from http://projecteuler.net
